@@ -1,1 +1,1 @@
-simple game using sfml c++
+A space shooter game using sfml c++
